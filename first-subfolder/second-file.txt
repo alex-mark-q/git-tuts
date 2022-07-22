@@ -3,3 +3,4 @@ hello second git
 Change file
 
 the new thinks
+the new thinks
